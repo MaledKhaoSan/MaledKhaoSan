@@ -1,8 +1,8 @@
 <div align="center">
 
-<h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
-</h4>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
 
 **จริงๆก็ก๊อปมานั้นแหละ**  
 [ [See repo ↗︎][repo-url] ]
