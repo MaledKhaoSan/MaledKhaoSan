@@ -2,7 +2,7 @@
 
 [![][logo-url]][repo-url]  
 
-**Tailwind CSS Components**  
+**จริงๆก็ก๊อปมานั้นแหละ**  
 [ [See repo ↗︎][repo-url] ]
   
 
