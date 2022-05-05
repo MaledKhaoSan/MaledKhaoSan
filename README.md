@@ -1,7 +1,7 @@
 
 
-[![][imgs-url]] 
-[imgs-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/hi.jpg
+[![][banner-url]][repo-url]
+[banner-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/hi.jpg
 
 
 <div align="center">
