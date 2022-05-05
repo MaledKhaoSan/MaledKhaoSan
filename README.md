@@ -14,4 +14,4 @@
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
 [repo-url]: https://github.com/saadeghi/daisyui
 [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
-[banner-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/main/hi.jpg
+[banner-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/hi.jpg
