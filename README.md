@@ -1,8 +1,8 @@
 
 
 [![][img-url]][repo-url]
-[img-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/main/hi.jpg
-[https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/main/hi.jpg](url)
+[img-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/blob/main/hi.jpg
+[https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/blob/main/hi.jpg](url)
 
 <div align="center">
 **จริงๆก็ก๊อปมานั้นแหละ**  
