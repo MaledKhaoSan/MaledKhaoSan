@@ -1,6 +1,8 @@
 
 
 [![][img-url]][repo-url]  
+[img-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/hi.jpg
+
 
 <div align="center">
 **จริงๆก็ก๊อปมานั้นแหละ**  
@@ -8,7 +10,6 @@
 </div>
 
 [![][banner-url]][repo-url]  
-[img-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/hi.jpg
 
 
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
