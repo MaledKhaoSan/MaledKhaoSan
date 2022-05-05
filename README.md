@@ -1,7 +1,7 @@
 
 
-[![][img-url]][repo-url]  
-[img-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/hi.jpg
+[![][imgs-url]] 
+[imgs-url]: https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/hi.jpg
 
 
 <div align="center">
@@ -9,7 +9,7 @@
 [ [See repo ↗︎][repo-url] ]
 </div>
 
-[![][banner-url]][repo-url]  
+[![][banner-url]][repo-url]
 
 
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
