@@ -1,13 +1,16 @@
-# Hello there 👋
+<div align="center">
 
-Here are some ideas to get you started:
+[![][logo-url]][repo-url]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tailwind CSS Components**  
+[ [See repo ↗︎][repo-url] ]
+  
+
+</div>
+
+[![][banner-url]][repo-url]  
+
+
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[repo-url]: https://github.com/saadeghi/daisyui
+[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
