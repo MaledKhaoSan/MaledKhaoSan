@@ -8,4 +8,4 @@
 <!--**จริง ๆ แล้วก็แปลไม่ออกหรอก.🥲**  -->
 </div>
 
-<a>![badge-alt-text](https://example.com/image.png)</a>
+<a>![badge-alt-text](https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/Atelophobia.png)</a>
