@@ -6,7 +6,8 @@
 [ [See repo ↗︎][repo-url] ]
 </div>
 
-<div align="center">
-![a building](https://github.com/MaledKhaoSan/MaledKhaoSan/blob/main/idk.jpg)
-<img width=400 src="https://user-images.githubusercontent.com/idk.jpg" alt="Yae at MacDonald" />
-</div>
+
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/MaledKhaoSan/MaledKhaoSan/master/idk.jpg" alt="stacks"/>
+</h3>
