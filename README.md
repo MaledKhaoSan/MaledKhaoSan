@@ -6,4 +6,5 @@
 [ [See repo ↗︎][repo-url] ]
 </div>
 
-![a building](https://github.com/MaledKhaoSan/MaledKhaoSan/master/hi.jpg)
+![a building](https://github.com/MaledKhaoSan/MaledKhaoSan/blob/main/hi.jpg)
+
