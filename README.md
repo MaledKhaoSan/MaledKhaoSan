@@ -6,4 +6,5 @@
 <!--**จริง ๆ แล้วก็แปลไม่ออกหรอก.🥲**  -->
 </div>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=MaledKhaoSan)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.MaledKhaoSan" alt="visitor badge"/>
