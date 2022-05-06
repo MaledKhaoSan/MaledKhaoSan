@@ -5,3 +5,5 @@
 
 <!--**จริง ๆ แล้วก็แปลไม่ออกหรอก.🥲**  -->
 </div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=santhitak)
