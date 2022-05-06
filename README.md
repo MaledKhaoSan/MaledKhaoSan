@@ -5,6 +5,3 @@
 
 <!--**จริง ๆ แล้วก็แปลไม่ออกหรอก.🥲**  -->
 </div>
-
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.MaledKhaoSan" alt="visitor badge"/>
